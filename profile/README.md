@@ -5,7 +5,7 @@ Bienvenidos a la organización de GitHub de la asignatura de **Aprendizaje Autom
 ## Por dónde empezar
 
 1. Partid siempre de la plantilla del curso: **[base-github-template](https://github.com/UAX-VCMT-AA/base-github-template)**. Trae ya montada la estructura de carpetas, las tres formas de gestionar el entorno (Poetry, venv, Conda), `.gitignore`, integración continua y una guía completa en su propio README.
-2. Cread vuestro repositorio de práctica a partir de esa plantilla (botón **"Use this template"** en GitHub), en vuestra propia cuenta.
+2. Basaos en ella para vuestro repositorio de práctica, en vuestra propia cuenta.
 
 ## Normas del repositorio
 
